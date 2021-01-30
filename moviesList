@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "titulo": "Vingadores: Guerra infinita",
+    "imagem": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Infinity_War-infinity_war.png",
+    "descricao": "Os vingadores e seus aliados irão sacrificar tudo na tentativa de derrotar o poderoso Thanos antes que ele devaste o mundo e arruine o universo com um estalar de dedos.",
+    "data_lancamento": "26/04/2018"
+  },
+  {
+    "id": 1,
+    "titulo": "Bem-Vindo a selva",
+    "imagem": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/The_Rundown-the_rundown.png",
+    "descricao": "Um aspirante a chef durão é contratado para trazer para casa o filho de um mafioso da Amazônia, mas ele acaba se envolvendo na luta contra um opressor operador urbano em sua busca por um tesouro lendário",
+    "data_lancamento": "26/09/2003"
+  },
+  {
+    "id": 2,
+    "titulo": "O poderoso chefão",
+    "imagem": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/The_Godfather-fragment_factory.png",
+    "descricao": "O já idoso patriarca de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
+    "data_lancamento": "07/07/1972"
+  },
+  {
+    "id": 3,
+    "titulo": "Senhor dos Anéis: O retorno do rei.",
+    "imagem": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/The_Lord_of_the_Rings_The_Return_of_the_King-fragment_factory_2.png",
+    "descricao": "Gandalf e Aragorn lideram o Mundo dos Homens contra o exército de Sauron para desviar seu olhar de Frodo e Sam enquanto eles se aproximam do Monte da Perdição com o um anel.",
+    "data_lancamento": "25/12/2003"
+  }
+]
